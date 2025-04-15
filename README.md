@@ -1,4 +1,5 @@
 ### NAME: SURYA P <br>
 ### REG NO: 212224230280
 
-# EX 1 : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+# EX 1 : STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLLES FOR DIFFERENT LOGIC GATES, REALIZATION USING VERILOG
+
