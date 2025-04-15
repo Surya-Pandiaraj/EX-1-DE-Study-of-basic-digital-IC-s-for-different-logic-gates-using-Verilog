@@ -1,0 +1,1 @@
+# EX-1-DE-Study-of-basic-digital-IC-s-for-different-logic-gates-using-Verilog
